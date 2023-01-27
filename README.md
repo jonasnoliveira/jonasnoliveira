@@ -16,7 +16,7 @@ Olá, meu nome é Jonas. Sou um desenvolvedor Full-stack cursando Ciências da C
         </div>
   </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jonas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,7 +31,7 @@ Olá, meu nome é Jonas. Sou um desenvolvedor Full-stack cursando Ciências da C
   
   ##
  
-<div>
+<div align="center">
   <a href="https://github.com/jonasnoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5535997399991&text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20portif%C3%B3lio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://jonasnoliveira.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
